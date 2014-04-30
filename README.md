@@ -4,11 +4,9 @@ A Front End Workshop
 
 ## Day 1
 
-### Hello World
-
-#### Download and Install Sublime Text
-
-#### Your first HTML Page
+- *Hello World*
+    - Download and Install Sublime Text
+    - Your first HTML Page
 
 ### Intro to CSS
 
