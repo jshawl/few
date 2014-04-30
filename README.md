@@ -8,7 +8,7 @@ A Front End Workshop
     - Download and Install Sublime Text
     - Your first HTML Page
     - Paths - relative vs absolute
-- **Intro to CSS*
+- **Intro to CSS**
     - Selectors and Basic Styling
     - Layout
     - Responsive Web Design
@@ -25,7 +25,7 @@ A Front End Workshop
     - protocols: file://, http://, and https://  
     - Configuring Apache
     - There's no place like 127.0.0.1
-- **Git and GitHub*
+- **Git and GitHub**
     - Version Control at a Glance
     - Working with Remotes
     - Collaborating with GitHub
