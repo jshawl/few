@@ -10,6 +10,14 @@ A Front End Workshop
 
 #### Your first HTML Page
 
+### Intro to CSS
+
+#### Selectors and Basic Styling
+
+#### Layout
+
+#### Responsive Web Design In a Nutshell
+
 ## Day 2
 
 ### Setting Up a Local Webserver
